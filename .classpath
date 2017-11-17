@@ -4,5 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="java-cup-11b.jar"/>
 	<classpathentry kind="lib" path="jflex-1.6.0.jar"/>
+	<classpathentry kind="lib" path="java-cup-11b-runtime.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
